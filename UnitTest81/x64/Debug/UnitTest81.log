@@ -1,0 +1,8 @@
+﻿  UnitTest81.cpp
+C:\Student\Lab081\Lab081\lab081.cpp(1,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file '/UnitTest81.cpp')
+      C:\Student\Lab081\Lab081\lab081.cpp(1,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+     Creating library C:\Student\Lab081\x64\Debug\UnitTest81.lib and object C:\Student\Lab081\x64\Debug\UnitTest81.exp
+  UnitTest81.vcxproj -> C:\Student\Lab081\x64\Debug\UnitTest81.dll
